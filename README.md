@@ -28,7 +28,7 @@ Listed below are the query prompts I was required to complete for this project:
   - The hours of the timestamp
   - The average score for each hour
   - The count of stories for each hour
-11. Let’s edit a few things in the previous query:
+10. Let’s edit a few things in the previous query:
   - Round the average scores (ROUND()).
   - Rename the columns to make it more readable (AS).
   - Add a WHERE clause to filter out the NULL values in timestamp.
