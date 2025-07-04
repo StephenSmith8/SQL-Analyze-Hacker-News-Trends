@@ -23,6 +23,7 @@ Listed below are the query prompts I was required to complete for this project:
 7. Next, build on the previous query: Add a column for the number of stories from each URL using COUNT(). Also, GROUP BY the CASE statement. Remember that you can refer to a column in GROUP BY using a number.
 8. Every submitter wants their story to get a high score so that the story makes it to the front page, but… What’s the best time of the day to post a story on Hacker News? Before we get started, let’s run this query and take a look at the timestamp column:
 9. SQLite comes with a strftime() function - a very powerful function that allows you to return a formatted date. It takes two arguments: strftime(format, column) Let’s test out the function below:
+    
 10. Okay, now we understand how strftime() works. Let’s write a query that returns three columns:
   - The hours of the timestamp
   - The average score for each hour
